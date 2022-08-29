@@ -1,7 +1,9 @@
 |2022-2023|INTRODUCTION TO PROGRAMMING|
 | :- | :- |
 
-![http://www.dryden.k12.ny.us/Athletics/pics/lionheader.gif](Aspose.Words.5e43cc52-dbfd-4d5e-a197-9c3cc40d7923.001.png)**Kiana Herr					Room: D-138 Dryden High School**
+![http://www.dryden.k12.ny.us/Athletics/pics/lionheader.gif](lion.png)
+
+**Kiana Herr					Room: D-138 Dryden High School**
 
 <kherr1@dryden.k12.ny.us> 
 
@@ -34,7 +36,9 @@ If you are absent, you are responsible for making up missed work.  Assignments w
 
 \*
 
-![http://www.dryden.k12.ny.us/Athletics/pics/lionheader.gif](Aspose.Words.5e43cc52-dbfd-4d5e-a197-9c3cc40d7923.002.png)*Grading Procedure:*
+![http://www.dryden.k12.ny.us/Athletics/pics/lionheader.gif](lion.png)
+
+*Grading Procedure:*
 
 This course will be graded in part by proficiency with each topic and in part by successful completion of programs and projects. The categories are as follows:
 
