@@ -1,7 +1,13 @@
-|2022-2023|INTRODUCTION TO PROGRAMMING|
-| :- | :- |
+---
+title: 2022-2023 Intro to Computer Programming Syllabus
+teacher: Mrs. Kiana Herr
+layout: template
+filename: index
+status: hidetitle
+--- 
 
-![http://www.dryden.k12.ny.us/Athletics/pics/lionheader.gif](lion.png)
+
+![lionheader](lion.png)
 
 **Kiana Herr					Room: D-138 Dryden High School**
 
@@ -36,7 +42,7 @@ If you are absent, you are responsible for making up missed work.  Assignments w
 
 \*
 
-![http://www.dryden.k12.ny.us/Athletics/pics/lionheader.gif](lion.png)
+![lionheader](lion.png)
 
 *Grading Procedure:*
 
