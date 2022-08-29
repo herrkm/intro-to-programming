@@ -9,11 +9,12 @@ status: hidetitle
 
 ![lionheader](lion.png)
 
-**Kiana Herr					Room: D-138 Dryden High School**
+Kiana Herr
+<div style="text-align: right"> "<b>Room: D-138 Dryden High School</b>" </div>
 
 <kherr1@dryden.k12.ny.us> 
 
-*Course Description*: 
+*Course Description:* 
 
 The purpose of this course is to introduce students to programming in a high-level text-based language. Students will learn fundamental concepts of computer programming, as well as essential practices for collaborative program design and development. The language used in this class will be Python.
 
@@ -40,7 +41,7 @@ I will generally be available during activity period each day.  Other times may 
 If you are absent, you are responsible for making up missed work.  Assignments will be posted on the class web page <https://herrkm.github.io/intro-to-programming/> daily; students can access directions and files for assignments here. Students can also contact me via email at any time. Missed work is required to be made up no later than the number of days returning to school equivalent to the number of days absent. (Example: If you are absent for two days you have two days to make up the missed work upon returning.)
 
 
-\*
+
 
 ![lionheader](lion.png)
 
@@ -48,13 +49,13 @@ If you are absent, you are responsible for making up missed work.  Assignments w
 
 This course will be graded in part by proficiency with each topic and in part by successful completion of programs and projects. The categories are as follows:
 
-**Collaborative Proficiency*** (*30% of marking period average*)
+**Collaborative Proficiency** (*30% of marking period average*)
 
 **Individual Proficiency** (*30% of marking period average*)
 
 **Programs and Projects** (*30% of marking period average*)
 
-**Participation*** (*10% of marking period average*)
+**Participation** (*10% of marking period average*)
 
 
 *Proficiency:*
@@ -98,11 +99,11 @@ Each participation assignment will be scored out of 2 points using the following
 ![http://www.dryden.k12.ny.us/Athletics/pics/lionheader.gif](Aspose.Words.5e43cc52-dbfd-4d5e-a197-9c3cc40d7923.002.png)**Course Outline**
 
 
-|Unit 1|<p>Building Blocks of Code</p><p>- Using Visual Studio Code and Python</p><p>- Variables</p><p>- Data types</p>|
+|Unit 1|Building Blocks of Code <br /> * Using Visual Studio Code and Python<br /> * Variables<br /> * Data types|
 | :- | :- |
-|Unit 2|<p>Flow Control</p><p>- Conditionals</p><p>- Loops</p><p>- Input Validation & Error Handling</p>|
-|Unit 3|<p>Data Structures</p><p>- Lists</p><p>- Tuples</p><p>- Dictionaries</p><p>- Searching/Sorting</p>|
-|Unit 4|<p>Functions</p><p>- Creating Functions</p><p>- Algorithmic Decomposition</p><p>- Documentation</p><p>- Recursion</p>|
+|Unit 2|Flow Control <br /> * Conditionals <br /> * Loops <br /> * Input Validation & Error Handling <br />|
+|Unit 3|Data Structures <br /> * Lists<br /> * Tuples <br />- Dictionaries <br /> * Searching/Sorting<br />|
+|Unit 4|Functions<br /> * Creating Functions <br /> * Algorithmic Decomposition <br /> * Documentation<br /> * Recursion<br />|
 
 
 
