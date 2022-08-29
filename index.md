@@ -7,3 +7,5 @@ status: hidetitle
 --- 
 
 # Welcome to Computer Programming!
+
+[Syllabus](2022-2023 course syllabus and outline)
