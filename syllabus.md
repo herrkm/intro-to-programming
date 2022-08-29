@@ -99,28 +99,10 @@ Each participation assignment will be scored out of 2 points using the following
 ![http://www.dryden.k12.ny.us/Athletics/pics/lionheader.gif](Aspose.Words.5e43cc52-dbfd-4d5e-a197-9c3cc40d7923.002.png)**Course Outline**
 
 
-|Unit 1|Building Blocks of Code
-
-- Using Visual Studio Code and Python
-- Variables
-- Data types|
-|Unit 2|Flow Control 
-
-- Conditionals 
-- Loops
--Input Validation & Error Handling|
-|Unit 3|Data Structures
-
-- Lists
-- Tuples 
-- Dictionaries
-- Searching/Sorting|
-|Unit 4|Functions
-
-- Creating Functions 
-- Algorithmic Decomposition
-- Documentation
-- Recursion|
+|Unit 1|Building Blocks of Code <br /> - Using Visual Studio Code and Python <br /> - Variables <br /> - Data types|
+|Unit 2|Flow Control <br /> - Conditionals <br /> - Loops <br /> -Input Validation & Error Handling|
+|Unit 3|Data Structures <br /> - Lists <br /> - Tuples <br /> - Dictionaries <br /> - Searching/Sorting|
+|Unit 4|Functions <br /> - Creating Functions <br /> - Algorithmic Decomposition <br /> - Documentation <br /> - Recursion|
 
 
 
@@ -129,7 +111,7 @@ Each participation assignment will be scored out of 2 points using the following
 
 I \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Parent/ Guardian of  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ have read and understand the syllabus. I understand that I may contact my student’s teacher for any information pertaining to my student’s progress.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_	\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 `	`Parent/ Guardian’s Signature						Date
 
